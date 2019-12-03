@@ -1,1 +1,1 @@
-# cancer_investigation
+El proyecto, se baso en el algoritmo de histogramas orientados al gradiente para extraer las características principales de las imágenes radiográficas de personas con cancer de mama con su respectiva etiqueta (Tipo de tumoración maligna, benigna o se encuentra sana), obtener datos estructurados y a partir de ellos aplicar algoritmos de clasificación a partir de una imágen radiografica y que eventualmente pueda realizar predicciones.
